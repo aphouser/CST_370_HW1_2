@@ -1,6 +1,5 @@
 /*
- * HackerRank link: https://www.hackerrank.com/contests/cst370-su20-hw0/challenges/370-hw0-1/submissions/code/1323105249
- * Title: hw0_1.java
+ * HackerRank link: https://www.hackerrank.com/contests/cst370-su20-hw1/challenges/max-events/submissions/code/1323168229
  * Abstract: This program reads the user's input data and simulates a calendar check.
  *          The hours are exploded and the check is for the highest number of
  *          overlapping events.
