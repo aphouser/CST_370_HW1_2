@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main {
+public class hw1_2 {
 
     public static void main(String[] args) {
 
